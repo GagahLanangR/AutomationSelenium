@@ -5,7 +5,7 @@ import time
 driver = webdriver.Chrome()
 
 # driver.get("https://the-internet.herokuapp.com/login")
-# driver.find_element_by_id("username").send_keys('Gagah')
+# driver.find_element_by_id("username").send_keys('Gxgxh')
 # driver.find_element_by_name("password").send_keys('1234')
 # driver.find_element_by_class_name('radius').click()
 # driver.find_element_by_css_selector("button.radius").click()
